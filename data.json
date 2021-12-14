@@ -1,0 +1,170 @@
+{
+  "en": {
+    "header": {
+      "name": "Ignas Davulis",
+      "title": "Frontend developer"
+    },
+    "about me": {
+      "about me": {
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenasut justo libero. Vestibulum vitae mattis diam. Vivamus eleifenddiam vel tempor lacinia. Suspendisse non augue egestas, dapibusjusto et, lobortis ex. Vestibulum vitae mattis diam. Vivamuseleifend diam vel tempor lacinia. Suspendisse non augue egestas, dapibus justo et, lobortis ex."
+      },
+      "education": {
+        "education0": {
+          "title": "CodeAcademy",
+          "period": "2003 - 2015",
+          "diploma": "Awesome diploma"
+        },
+        "education1": {
+          "title": "CodeAwesome",
+          "period": "2015 - 2030",
+          "diploma": "Awesome Cool diploma"
+        }
+      },
+      "personal skills": {
+        "skill0": "Teamwork",
+        "skill1": "Communication",
+        "skill2": "Organization"
+      },
+      "technical skills": {
+        "skill0": "HTML",
+        "skill1": "CSS",
+        "skill2": "JavaScript",
+        "skill3": "Node.Js/Express/Mongo.DB",
+        "skill4": "React"
+      },
+      "work experience": {
+        "experience0": {
+          "title": "Wizard",
+          "place": "Shpotify",
+          "period": "2025 - Present",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue.",
+          "achievements": {
+            "achievement0": "Listened to whole Db of records",
+            "achievement1": "Made Logo",
+            "achievement2": "Increased sales with the use of A/B tests"
+          }
+        },
+        "experience1": {
+          "title": "Wizard",
+          "place": "Shpotify",
+          "period": "2025 - Present",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue.",
+          "achievements": {
+            "achievement0": "Listened to whole Db of records",
+            "achievement1": "Made Logo",
+            "achievement2": "Increased sales with the use of A/B tests"
+          }
+        },
+        "experience2": {
+          "title": "Wizard",
+          "place": "Shpotify",
+          "period": "2025 - Present",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ut justo libero. Vestibulum vitae mattis diam. Vivamus eleifend diam vel tempor lacinia. Suspendisse non augue.",
+          "achievements": {
+            "achievement0": "Listened to whole Db of records",
+            "achievement1": "Made Logo",
+            "achievement2": "Increased sales with the use of A/B tests"
+          }
+        }
+      },
+      "footer": {
+        "address": {
+          "street": "Grove St. 59",
+          "city": "Vilnius, Narnia"
+        },
+        "contacts": {
+          "phone": "+37000000000",
+          "email": "email@dev.to"
+        },
+        "social": {
+          "twitter": "Twitter/@IgnasDavulis",
+          "linkedin": "Linkedin/Ignas-Davulis"
+        }
+      }
+    }
+  },
+  "lt": {
+    "header": {
+      "name": "Ignas Davulis",
+      "title": "Frontend programuotojas"
+    },
+    "about me": {
+      "about me": {
+        "body": "Yra daug įvarių Lorem Ipsum variantų, bet daugelis jų buvo vienokiu ar kitokiu būdu modifikuoti, pvz. jumoristiniai intarpai arba žodžiai, nė kiek nepanasūs i lotynų kalbą. Jeigu Jums reikia Lorem Ipsum teksto rimtam projektui, Jūs tikriausiai nenorėtumėte viduryje eilutės kokio nors trikdančio išsireiškimo. "
+      },
+      "education": {
+        "education0": {
+          "title": "CodeAcademy",
+          "period": "2003 - 2015",
+          "diploma": "Kietas Diplomas"
+        },
+        "education1": {
+          "title": "CodeAwesome",
+          "period": "2015 - 2030",
+          "diploma": "Labai kietas diplomas"
+        }
+      },
+      "personal skills": {
+        "skill0": "Komandiskumas",
+        "skill1": "Komunikacija",
+        "skill2": "Organizavimas"
+      },
+      "technical skills": {
+        "skill0": "HTML",
+        "skill1": "CSS",
+        "skill2": "JavaScript",
+        "skill3": "Node.Js/Express/Mongo.DB",
+        "skill4": "React"
+      },
+      "work experience": {
+        "experience0": {
+          "title": "Magas",
+          "place": "Shpotify",
+          "period": "2025 - Dabartis",
+          "body": "au seniai žinoma, kad vertinant dizainą ir kompoziciją, blaško skaitomas tekstas. Tad Lorem Ipsum naudojamas tam.",
+          "achievements": {
+            "achievement0": "Isklausyta visa duomenu baze muzikiniu irasu",
+            "achievement1": "Sukurtas logotipas",
+            "achievement2": "Padidinti pardavimai naudojant A/B testus"
+          }
+        },
+        "experience1": {
+          "title": "Magas",
+          "place": "Shpotify",
+          "period": "2025 - Dabartis",
+          "body": "au seniai žinoma, kad vertinant dizainą ir kompoziciją, blaško skaitomas tekstas. Tad Lorem Ipsum naudojamas tam.",
+          "achievements": {
+            "achievement0": "Isklausyta visa duomenu baze muzikiniu irasu",
+            "achievement1": "Sukurtas logotipas",
+            "achievement2": "Padidinti pardavimai naudojant A/B testus"
+          }
+        },
+        "experience2": {
+          "title": "Magas",
+          "place": "Shpotify",
+          "period": "2025 - Dabartis",
+          "body": "au seniai žinoma, kad vertinant dizainą ir kompoziciją, blaško skaitomas tekstas. Tad Lorem Ipsum naudojamas tam.",
+          "achievements": {
+            "achievement0": "Isklausyta visa duomenu baze muzikiniu irasu",
+            "achievement1": "Sukurtas logotipas",
+            "achievement2": "Padidinti pardavimai naudojant A/B testus"
+          }
+        }
+      },
+      "footer": {
+        "address": {
+          "street": "Grove g. 59",
+          "city": "Vilnius, Narnia"
+        },
+        "contacts": {
+          "phone": "+37000000000",
+          "email": "email@dev.to"
+        },
+        "social": {
+          "twitter": "Twitter/@IgnasDavulis",
+          "linkedin": "Linkedin/Ignas-Davulis"
+        }
+      }
+    }
+  }
+}

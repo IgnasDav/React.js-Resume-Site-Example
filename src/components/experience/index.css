@@ -1,0 +1,22 @@
+.job-experience {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.job-experience .experience {
+  padding: 0 0 0 20px;
+  border-left: 2px solid var(--gray);
+}
+.job-experience .experience:first-child {
+  border: none;
+}
+.experience__meta {
+  text-align: center;
+  margin-bottom: 26px;
+}
+.experience__description {
+  margin-bottom: 8px;
+}
+.experience__achievments {
+  list-style: disc;
+  list-style-position: inside;
+}

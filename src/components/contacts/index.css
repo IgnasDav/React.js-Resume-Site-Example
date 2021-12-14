@@ -1,0 +1,20 @@
+.contacts {
+  margin: 0px 24px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 100px;
+}
+.contacts__item {
+  text-align: center;
+}
+.contacts__item .link {
+  display: block;
+}
+.contacts__item-headline {
+  background: var(--black);
+  text-transform: uppercase;
+  color: var(--white);
+  font-weight: 700;
+  font-size: 24px;
+  margin-bottom: 12px;
+}
